@@ -8,7 +8,7 @@ module FirstBot
 
     config.load_defaults 6.0
     config.time_zone = 'Tokyo'
-    config.i18n.default_locale = ;ja
+    config.i18n.default_locale = :ja
 
   end
 end
